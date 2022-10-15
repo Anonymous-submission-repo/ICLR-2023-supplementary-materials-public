@@ -5,9 +5,9 @@ The implementation of our method LexiFlow is built upon an open-source AutoML li
 
 This version of the code is made to facilitate the peer review of the ICLR 2023 submission of our paper. 
 We plan to release the code accompanying the formal publication of this paper. 
-### **Notice**
+## **Notice**
 
-We are working on integrating LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML).
+**We are working on integrating LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML).**
 
 **Update [2022/10/15]: It is in process. Please refer to https://github.com/microsoft/FLAML/pull/752** 
 
