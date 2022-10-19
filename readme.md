@@ -2,9 +2,9 @@
 
 ## **Notice**
 
-#### We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)!
+:bangbang: ### We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)!
 
-Please refer to PR https://github.com/microsoft/FLAML/pull/752. 
+Please refer to the doc https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function#lexicographic-objectives as well as an example in https://github.com/microsoft/FLAML/blob/main/notebook/tune_lexicographic.ipynb.
 
 ## Introduce
 This repository is the implementation of **Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectives**. 
