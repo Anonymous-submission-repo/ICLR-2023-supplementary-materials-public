@@ -2,7 +2,8 @@
 
 ## **Notice**
 
-:bangbang: ### We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)!
+
+### :bangbang:  We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)! 
 
 Please refer to the doc https://microsoft.github.io/FLAML/docs/Use-Cases/Tune-User-Defined-Function#lexicographic-objectives as well as an example in https://github.com/microsoft/FLAML/blob/main/notebook/tune_lexicographic.ipynb.
 
