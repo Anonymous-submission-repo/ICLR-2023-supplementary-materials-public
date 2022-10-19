@@ -1,6 +1,6 @@
 # Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectivesr
 
-## **Notice**
+## **:fire: Notice**
 
 
 ### :bangbang:  We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)! 
