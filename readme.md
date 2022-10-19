@@ -1,15 +1,18 @@
 # Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectivesr
+
+## **Notice**
+
+#### We have integrated LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML)!
+
+Please refer to PR https://github.com/microsoft/FLAML/pull/752. 
+
+## Introduce
 This repository is the implementation of **Targeted Hyperparameter Optimization with Lexicographic Preferences Over Multiple Objectives**. 
 
 The implementation of our method LexiFlow is built upon an open-source AutoML library named FLAML. Thus the submitted code includes part of flaml’s code. But we emphasize that the contributors and copyright information about the open-source library FLAML do not necessarily reveal the identities of the authors of this work. We plan to open source the code accompanying the formal publication of this paper.
 
 This version of the code is made to facilitate the peer review of the ICLR 2023 submission of our paper. 
 We plan to release the code accompanying the formal publication of this paper. 
-## **Notice**
-
-**We are working on integrating LexiFlow into AutomL Library [FLAML](https://github.com/microsoft/FLAML).**
-
-**Update [2022/10/15]: It is in process. Please refer to https://github.com/microsoft/FLAML/pull/752** 
 
 
 ## Datasets
